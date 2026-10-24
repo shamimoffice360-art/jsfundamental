@@ -67,3 +67,5 @@ input.addEventListener("keydown", (keyname) => {
     input.value = "";
   }
 });
+
+let d = 0;
